@@ -1,3 +1,5 @@
+<img width="554" height="551" alt="image" src="https://github.com/user-attachments/assets/bfd4273f-6fed-4957-9c1c-cfa20c679e8e" />
+
 # Mindbox Todo App
 
 Тестовое задание для Frontend Intern в Mindbox
